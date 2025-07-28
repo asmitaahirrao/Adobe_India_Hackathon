@@ -1,0 +1,70 @@
+{
+  "title": "sample",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Understanding AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1.   Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1.1.1 History of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1.2 Types of AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•   Narrow AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•   General AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•   Superintelligent AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.   Applications ← (H1)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.1 AI in Healthcare",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.1.1 Diagnostics",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.1.2 Drug Discovery",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.   Challenges",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Ethics of AI",
+      "page": 2
+    }
+  ]
+}
