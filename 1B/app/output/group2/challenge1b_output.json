@@ -1,0 +1,1012 @@
+{
+  "metadata": {
+    "documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "timestamp": "2025-07-24T14:15:43.247618"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "section_title": "\u2022   In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell peppe",
+      "importance_rank": 0.4180751442909241
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "\u2022   1/4 cup cooked sausage or bacon  \u2022   1/4 cup diced bell pepper  \u2022   1/4 cup ",
+      "importance_rank": 0.412415087223053
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "section_title": "\u2022   1 large flour tortilla  \u2022   2 large eggs  \u2022   1/4 cup shredded cheese  \u2022   1",
+      "importance_rank": 0.40307146310806274
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "\u2022   2 large eggs  \u2022   1/4 cup shredded cheese  \u2022   1/4 cup cooked sausage or bac",
+      "importance_rank": 0.39606666564941406
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 6,
+      "section_title": "\u2022   1 pre-made pizza crust  \u2022   1/2 cup marinara sauce  \u2022   1 cup shredded mozza",
+      "importance_rank": 0.38153988122940063
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 12,
+      "section_title": "\u2022   1 large whole wheat tortilla  \u2022   1/4 cup hummus  \u2022   1/4 cup shredded carro",
+      "importance_rank": 0.37630796432495117
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "section_title": "\u2022   1 bagel, sliced and toasted  \u2022   2 tablespoons cream cheese  \u2022   Optional to",
+      "importance_rank": 0.37519001960754395
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 9,
+      "section_title": "\u2022   In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes.  \u2022   T",
+      "importance_rank": 0.36808425188064575
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "\u2022   Cook in the skillet until the tortilla is golden brown and crispy.  \u2022   Serv",
+      "importance_rank": 0.36493709683418274
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "section_title": "Cottage Cheese and Veggie Bowl  Ingredients:",
+      "importance_rank": 0.36193186044692993
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7   1 pound ground beef  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  ",
+      "importance_rank": 0.4476110339164734
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "section_title": "\uf0b7   Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for",
+      "importance_rank": 0.41613084077835083
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "section_title": "\uf0b7   Preheat oven to 375\u00b0F (190\u00b0C).  \uf0b7   In a skillet, cook ground beef, diced on",
+      "importance_rank": 0.41182053089141846
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 13,
+      "section_title": "\uf0b7   Preheat oven to 350\u00b0F (175\u00b0C).  \uf0b7   In a large bowl, mix ground beef, ground",
+      "importance_rank": 0.405210018157959
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "\uf0b7   Preheat oven to 400\u00b0F (200\u00b0C).  \uf0b7   In a skillet, cook ground lamb or beef, ",
+      "importance_rank": 0.4014994502067566
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 7,
+      "section_title": "\uf0b7   Bring to a simmer, then cover and transfer to the oven.  \uf0b7   Cook for 2 hour",
+      "importance_rank": 0.3991706073284149
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 11,
+      "section_title": "\uf0b7   In the same skillet, cook ground lamb or beef, diced onion, and minced garli",
+      "importance_rank": 0.39696699380874634
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7   In a large skillet, cook ground beef over medium heat until browned.  \uf0b7   Ad",
+      "importance_rank": 0.39639633893966675
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "section_title": "\uf0b7   Sliced green onions for garnish  Instructions:",
+      "importance_rank": 0.38939934968948364
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "section_title": "\uf0b7   In a large pot, heat vegetable oil over medium heat.  \uf0b7   Cook diced onion, ",
+      "importance_rank": 0.385134756565094
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 12,
+      "section_title": "\uf0b7   Cook sandwiches in the skillet until golden brown and cheese is melted.  \uf0b7  ",
+      "importance_rank": 0.4041248559951782
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7   1 pound pork tenderloin, cubed  \uf0b7   1 bell pepper, diced  \uf0b7   1 small onion,",
+      "importance_rank": 0.3892965316772461
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7   1 pound spaghetti  \uf0b7   4 eggs  \uf0b7   1 cup grated Parmesan cheese  \uf0b7   1/2 cup",
+      "importance_rank": 0.3791162967681885
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 7,
+      "section_title": "\uf0b7   In a large skillet, heat vegetable oil over medium heat.  \uf0b7   Cook sliced ch",
+      "importance_rank": 0.37086203694343567
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7   In a large skillet, heat olive oil over medium heat.  \uf0b7   Add zucchini noodl",
+      "importance_rank": 0.36738938093185425
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7   In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch.  \uf0b7",
+      "importance_rank": 0.36364036798477173
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 9,
+      "section_title": "\uf0b7   4 chicken thighs  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  \uf0b7  ",
+      "importance_rank": 0.3620014786720276
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 4,
+      "section_title": "\uf0b7   In a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and wa",
+      "importance_rank": 0.3608325123786926
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 4,
+      "section_title": "\uf0b7   In a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beate",
+      "importance_rank": 0.34723421931266785
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 8,
+      "section_title": "\uf0b7   1 pound chicken breast, sliced  \uf0b7   1 cup broccoli florets  \uf0b7   1 cup bell p",
+      "importance_rank": 0.34668582677841187
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 5,
+      "section_title": "\uf0b7   2 pounds pork ribs  \uf0b7   1/4 cup honey  \uf0b7   1/4 cup soy sauce  \uf0b7   2 tablespo",
+      "importance_rank": 0.41180434823036194
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7   4 cups chicken broth  \uf0b7   1/4 cup soy sauce  \uf0b7   2 tablespoons miso paste  \uf0b7",
+      "importance_rank": 0.3922732472419739
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 8,
+      "section_title": "\uf0b7   Preheat oven to 375\u00b0F (190\u00b0C).  \uf0b7   In a skillet, heat olive oil over medium",
+      "importance_rank": 0.38525235652923584
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 4,
+      "section_title": "\uf0b7   1 pound ground beef  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  ",
+      "importance_rank": 0.3785228729248047
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7   In a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, a",
+      "importance_rank": 0.3717750906944275
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 5,
+      "section_title": "\uf0b7   Preheat oven to 300\u00b0F (150\u00b0C).  \uf0b7   Season ribs with salt, pepper, and papri",
+      "importance_rank": 0.3643300533294678
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "section_title": "Pulled Pork Sandwiches  Ingredients:",
+      "importance_rank": 0.3604254722595215
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7   1 pie crust  \uf0b7   6 slices bacon, cooked and crumbled  \uf0b7   1 small onion, dic",
+      "importance_rank": 0.3562842011451721
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7   1 cup Arborio rice  \uf0b7   4 cups chicken or vegetable broth  \uf0b7   1 small onion",
+      "importance_rank": 0.35514742136001587
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7   Chopped parsley for garnish  \uf0b7   Cooked couscous for serving  Instructions:",
+      "importance_rank": 0.3547854423522949
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 11,
+      "section_title": "o   Slice tomatoes and mozzarella.  o   Arrange on a plate, alternating slices. ",
+      "importance_rank": 0.4348568618297577
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 12,
+      "section_title": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",
+      "importance_rank": 0.4256683588027954
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "section_title": "o   Arrange meats, cheeses, olives, and vegetables on a platter.  o   Serve with",
+      "importance_rank": 0.4250694513320923
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "section_title": "o   Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beate",
+      "importance_rank": 0.40675294399261475
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 6,
+      "section_title": "o   Preheat oven to 350\u00b0F (175\u00b0C).  o   Saut\u00e9 diced onion and minced garlic unti",
+      "importance_rank": 0.40418529510498047
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 8,
+      "section_title": "for 20 minutes.  o   Add fish fillets, shrimp, and mussels, cook until seafood i",
+      "importance_rank": 0.39938777685165405
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": "o   Assorted small side dishes like pickled radish, spinach, bean sprouts, kimch",
+      "importance_rank": 0.38719433546066284
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 9,
+      "section_title": "o   Slice baguette and toast until golden.  o   Dice tomatoes and chop basil.  o",
+      "importance_rank": 0.37150508165359497
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 5,
+      "section_title": "o   Mix rice flour, coconut milk, water, turmeric, and salt to form a batter.  o",
+      "importance_rank": 0.36829668283462524
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 8,
+      "section_title": "o   Preheat oven to 375\u00b0F (190\u00b0C).  o   Slice potatoes, zucchinis, eggplants, an",
+      "importance_rank": 0.3675681948661804
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 8,
+      "section_title": "o   Saut\u00e9 diced bacon, onion, and minced garlic until crispy.  o   Add cooked be",
+      "importance_rank": 0.4180714190006256
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 13,
+      "section_title": "o   Dice tomatoes and cucumber, slice red onion.  o   Mix vegetables with olives",
+      "importance_rank": 0.41737034916877747
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "section_title": "o   Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame",
+      "importance_rank": 0.4078845977783203
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 12,
+      "section_title": "carrots, and cucumber on each wrapper.  o   Roll tightly and serve with dipping ",
+      "importance_rank": 0.40154150128364563
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 7,
+      "section_title": "o   Toast pita breads until crispy, then break into pieces.  o   Dice tomatoes a",
+      "importance_rank": 0.39705902338027954
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 12,
+      "section_title": "moisture.  o   Toast sesame seeds and grind them.  o   Mix sesame seeds with soy",
+      "importance_rank": 0.3858485817909241
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 7,
+      "section_title": "o   Saut\u00e9 diced bacon, onion, and minced garlic in butter until crispy.  o   Add",
+      "importance_rank": 0.3820943236351013
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 10,
+      "section_title": "o   Saut\u00e9 diced onion, peas, and carrots in sesame oil until softened.  o   Push",
+      "importance_rank": 0.363348126411438
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "section_title": "o   Saut\u00e9 diced onion and minced garlic in palm oil until softened.  o   Add dic",
+      "importance_rank": 0.35874536633491516
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "section_title": "minutes.  o   Add beef, fish, salt, pepper, and water, simmer until meat is tend",
+      "importance_rank": 0.3504374623298645
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 4,
+      "section_title": "o   Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beate",
+      "importance_rank": 0.40675294399261475
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 10,
+      "section_title": "o   Saut\u00e9 diced onion, minced garlic, and sliced bell pepper until softened.  o ",
+      "importance_rank": 0.40335819125175476
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 3,
+      "section_title": "o   Dice tomatoes, onion, and cucumber.  o   Mix vegetables with chopped cilantr",
+      "importance_rank": 0.3949053883552551
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 1,
+      "section_title": "until cooked.  o   Add spinach and cook until wilted.  o   Mix noodles with soy ",
+      "importance_rank": 0.3806988000869751
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 2,
+      "section_title": "o   Toss vegetables with minced garlic, jerk seasoning, and olive oil.  o   Roas",
+      "importance_rank": 0.37586793303489685
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 8,
+      "section_title": "o   Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame",
+      "importance_rank": 0.37130215764045715
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 6,
+      "section_title": "o   Saut\u00e9 ground chicken, diced onion, and minced garlic until cooked.  o   Mix ",
+      "importance_rank": 0.36677056550979614
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 3,
+      "section_title": "o   Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter.  o   Press ",
+      "importance_rank": 0.3664080500602722
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 8,
+      "section_title": "o   1 package dumpling wrappers  o   1/2 pound ground pork  o   1/2 cup chopped ",
+      "importance_rank": 0.35638222098350525
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 10,
+      "section_title": "o   Saut\u00e9 diced onion, carrots, celery, and minced garlic until softened.  o   A",
+      "importance_rank": 0.3554697632789612
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 10,
+      "section_title": "o   Dice tomatoes and cucumber, slice red onion.  o   Blanch green beans until t",
+      "importance_rank": 0.4133475422859192
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 1,
+      "section_title": "bowl.  o   Add paneer cubes and marinate for at least 1 hour.  o   Thread paneer",
+      "importance_rank": 0.39794522523880005
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 1,
+      "section_title": "o   Toast bread cubes until golden.  o   Dice tomatoes and cucumber, slice red o",
+      "importance_rank": 0.38136816024780273
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 14,
+      "section_title": "o   Peel and shred green papaya and carrot.  o   Crush garlic and chilies in a m",
+      "importance_rank": 0.37301701307296753
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 0,
+      "section_title": "o   Slice baguette and toast until golden.  o   Rub toasted bread with cut garli",
+      "importance_rank": 0.37014684081077576
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 13,
+      "section_title": "o   Saut\u00e9 diced onion, minced garlic, and diced bell pepper until softened.  o  ",
+      "importance_rank": 0.3520398736000061
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 13,
+      "section_title": "through.  o   Slice and serve with pita bread and toppings.    Skordalia",
+      "importance_rank": 0.35195887088775635
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "section_title": "o   Dice onion, grate carrot, and chop apple.  o   Mix shredded chicken with oni",
+      "importance_rank": 0.3485262393951416
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 9,
+      "section_title": "o   Grate potatoes and onion, then squeeze out excess moisture.  o   Mix with fl",
+      "importance_rank": 0.3380586504936218
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 4,
+      "section_title": "o   Stir in butter and Parmesan cheese.  o   Serve warm.    Potato Salad",
+      "importance_rank": 0.3372390866279602
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   1/4 cup hummus  \u2022   ",
+      "importance_rank": 0.4093903601169586
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, sliced  \u2022   1 cup r",
+      "importance_rank": 0.4032323956489563
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 8,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   2 tablespoons cranbe",
+      "importance_rank": 0.3974376320838928
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 12,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   1/2 cup shredded cheese  \u2022   1/4 cup bell pepper",
+      "importance_rank": 0.3889276385307312
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 5,
+      "section_title": "\u2022   4 slices turkey breast  \u2022   4 slices cheese (such as cheddar or Swiss)  \u2022   ",
+      "importance_rank": 0.3881940245628357
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, sliced  \u2022   1/2 avo",
+      "importance_rank": 0.37661051750183105
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "section_title": "\u2022   2 slices whole grain bread  \u2022   4 slices turkey breast  \u2022   1/2 avocado, sli",
+      "importance_rank": 0.3696991205215454
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 2,
+      "section_title": "\u2022   1 whole wheat pita bread  \u2022   1/2 cup hummus  \u2022   1/2 cup cucumber, sliced  ",
+      "importance_rank": 0.3693627417087555
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   1/2 cup cooked lentils  \u2022   1/4 cup bell pepper,",
+      "importance_rank": 0.3687072992324829
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 11,
+      "section_title": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, shredded  \u2022   2 tab",
+      "importance_rank": 0.36695805191993713
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "refined_text": "\u2022   In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell peppe"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   1/4 cup cooked sausage or bacon  \u2022   1/4 cup diced bell pepper  \u2022   1/4 cup "
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "refined_text": "\u2022   1 large flour tortilla  \u2022   2 large eggs  \u2022   1/4 cup shredded cheese  \u2022   1"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022   2 large eggs  \u2022   1/4 cup shredded cheese  \u2022   1/4 cup cooked sausage or bac"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 6,
+      "refined_text": "\u2022   1 pre-made pizza crust  \u2022   1/2 cup marinara sauce  \u2022   1 cup shredded mozza"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 12,
+      "refined_text": "\u2022   1 large whole wheat tortilla  \u2022   1/4 cup hummus  \u2022   1/4 cup shredded carro"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "refined_text": "\u2022   1 bagel, sliced and toasted  \u2022   2 tablespoons cream cheese  \u2022   Optional to"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022   In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes.  \u2022   T"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022   Cook in the skillet until the tortilla is golden brown and crispy.  \u2022   Serv"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "refined_text": "Cottage Cheese and Veggie Bowl  Ingredients:"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7   1 pound ground beef  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  "
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   Preheat oven to 375\u00b0F (190\u00b0C).  \uf0b7   In a skillet, cook ground beef, diced on"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 13,
+      "refined_text": "\uf0b7   Preheat oven to 350\u00b0F (175\u00b0C).  \uf0b7   In a large bowl, mix ground beef, ground"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "refined_text": "\uf0b7   Preheat oven to 400\u00b0F (200\u00b0C).  \uf0b7   In a skillet, cook ground lamb or beef, "
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 7,
+      "refined_text": "\uf0b7   Bring to a simmer, then cover and transfer to the oven.  \uf0b7   Cook for 2 hour"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 11,
+      "refined_text": "\uf0b7   In the same skillet, cook ground lamb or beef, diced onion, and minced garli"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7   In a large skillet, cook ground beef over medium heat until browned.  \uf0b7   Ad"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "refined_text": "\uf0b7   Sliced green onions for garnish  Instructions:"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "refined_text": "\uf0b7   In a large pot, heat vegetable oil over medium heat.  \uf0b7   Cook diced onion, "
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 12,
+      "refined_text": "\uf0b7   Cook sandwiches in the skillet until golden brown and cheese is melted.  \uf0b7  "
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7   1 pound pork tenderloin, cubed  \uf0b7   1 bell pepper, diced  \uf0b7   1 small onion,"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 1,
+      "refined_text": "\uf0b7   1 pound spaghetti  \uf0b7   4 eggs  \uf0b7   1 cup grated Parmesan cheese  \uf0b7   1/2 cup"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 7,
+      "refined_text": "\uf0b7   In a large skillet, heat vegetable oil over medium heat.  \uf0b7   Cook sliced ch"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "refined_text": "\uf0b7   In a large skillet, heat olive oil over medium heat.  \uf0b7   Add zucchini noodl"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "refined_text": "\uf0b7   In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch.  \uf0b7"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 9,
+      "refined_text": "\uf0b7   4 chicken thighs  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  \uf0b7  "
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   In a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and wa"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   In a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beate"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 8,
+      "refined_text": "\uf0b7   1 pound chicken breast, sliced  \uf0b7   1 cup broccoli florets  \uf0b7   1 cup bell p"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 5,
+      "refined_text": "\uf0b7   2 pounds pork ribs  \uf0b7   1/4 cup honey  \uf0b7   1/4 cup soy sauce  \uf0b7   2 tablespo"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "refined_text": "\uf0b7   4 cups chicken broth  \uf0b7   1/4 cup soy sauce  \uf0b7   2 tablespoons miso paste  \uf0b7"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 8,
+      "refined_text": "\uf0b7   Preheat oven to 375\u00b0F (190\u00b0C).  \uf0b7   In a skillet, heat olive oil over medium"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   1 pound ground beef  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  "
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "refined_text": "\uf0b7   In a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, a"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 5,
+      "refined_text": "\uf0b7   Preheat oven to 300\u00b0F (150\u00b0C).  \uf0b7   Season ribs with salt, pepper, and papri"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "refined_text": "Pulled Pork Sandwiches  Ingredients:"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "refined_text": "\uf0b7   1 pie crust  \uf0b7   6 slices bacon, cooked and crumbled  \uf0b7   1 small onion, dic"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "refined_text": "\uf0b7   1 cup Arborio rice  \uf0b7   4 cups chicken or vegetable broth  \uf0b7   1 small onion"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "refined_text": "\uf0b7   Chopped parsley for garnish  \uf0b7   Cooked couscous for serving  Instructions:"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 11,
+      "refined_text": "o   Slice tomatoes and mozzarella.  o   Arrange on a plate, alternating slices. "
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 12,
+      "refined_text": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "refined_text": "o   Arrange meats, cheeses, olives, and vegetables on a platter.  o   Serve with"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "refined_text": "o   Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beate"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 6,
+      "refined_text": "o   Preheat oven to 350\u00b0F (175\u00b0C).  o   Saut\u00e9 diced onion and minced garlic unti"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 8,
+      "refined_text": "for 20 minutes.  o   Add fish fillets, shrimp, and mussels, cook until seafood i"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "refined_text": "o   Assorted small side dishes like pickled radish, spinach, bean sprouts, kimch"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 9,
+      "refined_text": "o   Slice baguette and toast until golden.  o   Dice tomatoes and chop basil.  o"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 5,
+      "refined_text": "o   Mix rice flour, coconut milk, water, turmeric, and salt to form a batter.  o"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 8,
+      "refined_text": "o   Preheat oven to 375\u00b0F (190\u00b0C).  o   Slice potatoes, zucchinis, eggplants, an"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 8,
+      "refined_text": "o   Saut\u00e9 diced bacon, onion, and minced garlic until crispy.  o   Add cooked be"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 13,
+      "refined_text": "o   Dice tomatoes and cucumber, slice red onion.  o   Mix vegetables with olives"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "refined_text": "o   Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 12,
+      "refined_text": "carrots, and cucumber on each wrapper.  o   Roll tightly and serve with dipping "
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 7,
+      "refined_text": "o   Toast pita breads until crispy, then break into pieces.  o   Dice tomatoes a"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 12,
+      "refined_text": "moisture.  o   Toast sesame seeds and grind them.  o   Mix sesame seeds with soy"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 7,
+      "refined_text": "o   Saut\u00e9 diced bacon, onion, and minced garlic in butter until crispy.  o   Add"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 10,
+      "refined_text": "o   Saut\u00e9 diced onion, peas, and carrots in sesame oil until softened.  o   Push"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "refined_text": "o   Saut\u00e9 diced onion and minced garlic in palm oil until softened.  o   Add dic"
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "refined_text": "minutes.  o   Add beef, fish, salt, pepper, and water, simmer until meat is tend"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 4,
+      "refined_text": "o   Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beate"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 10,
+      "refined_text": "o   Saut\u00e9 diced onion, minced garlic, and sliced bell pepper until softened.  o "
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 3,
+      "refined_text": "o   Dice tomatoes, onion, and cucumber.  o   Mix vegetables with chopped cilantr"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 1,
+      "refined_text": "until cooked.  o   Add spinach and cook until wilted.  o   Mix noodles with soy "
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 2,
+      "refined_text": "o   Toss vegetables with minced garlic, jerk seasoning, and olive oil.  o   Roas"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 8,
+      "refined_text": "o   Mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame"
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 6,
+      "refined_text": "o   Saut\u00e9 ground chicken, diced onion, and minced garlic until cooked.  o   Mix "
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 3,
+      "refined_text": "o   Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter.  o   Press "
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 8,
+      "refined_text": "o   1 package dumpling wrappers  o   1/2 pound ground pork  o   1/2 cup chopped "
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 10,
+      "refined_text": "o   Saut\u00e9 diced onion, carrots, celery, and minced garlic until softened.  o   A"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 10,
+      "refined_text": "o   Dice tomatoes and cucumber, slice red onion.  o   Blanch green beans until t"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 1,
+      "refined_text": "bowl.  o   Add paneer cubes and marinate for at least 1 hour.  o   Thread paneer"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 1,
+      "refined_text": "o   Toast bread cubes until golden.  o   Dice tomatoes and cucumber, slice red o"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 14,
+      "refined_text": "o   Peel and shred green papaya and carrot.  o   Crush garlic and chilies in a m"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 0,
+      "refined_text": "o   Slice baguette and toast until golden.  o   Rub toasted bread with cut garli"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 13,
+      "refined_text": "o   Saut\u00e9 diced onion, minced garlic, and diced bell pepper until softened.  o  "
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 13,
+      "refined_text": "through.  o   Slice and serve with pita bread and toppings.    Skordalia"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "refined_text": "o   Dice onion, grate carrot, and chop apple.  o   Mix shredded chicken with oni"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 9,
+      "refined_text": "o   Grate potatoes and onion, then squeeze out excess moisture.  o   Mix with fl"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 4,
+      "refined_text": "o   Stir in butter and Parmesan cheese.  o   Serve warm.    Potato Salad"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   1/4 cup hummus  \u2022   "
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, sliced  \u2022   1 cup r"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 8,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   2 tablespoons cranbe"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 12,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1/2 cup shredded cheese  \u2022   1/4 cup bell pepper"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022   4 slices turkey breast  \u2022   4 slices cheese (such as cheddar or Swiss)  \u2022   "
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, sliced  \u2022   1/2 avo"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "refined_text": "\u2022   2 slices whole grain bread  \u2022   4 slices turkey breast  \u2022   1/2 avocado, sli"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022   1 whole wheat pita bread  \u2022   1/2 cup hummus  \u2022   1/2 cup cucumber, sliced  "
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1/2 cup cooked lentils  \u2022   1/4 cup bell pepper,"
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 11,
+      "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, shredded  \u2022   2 tab"
+    }
+  ]
+}

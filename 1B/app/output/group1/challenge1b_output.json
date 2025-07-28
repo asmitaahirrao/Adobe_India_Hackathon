@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "documents": [
+      "GNN_paper1.pdf",
+      "GNN_paper2.pdf",
+      "GNN_paper3.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a literature review focusing on methodologies, datasets, and benchmarks",
+    "timestamp": "2025-07-24T14:15:23.720145"
+  },
+  "extracted_sections": [
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "Phys. Review D,  76 , 4, 2007.",
+      "importance_rank": 0.3099147081375122
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "Phys. Review D,  90 , 6, 2014.",
+      "importance_rank": 0.288906991481781
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 0,
+      "section_title": "systems have been explored in some papers [9, 10]. However, a key ingredient on ",
+      "importance_rank": 0.28254202008247375
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "Cambridge University Press , 2010.",
+      "importance_rank": 0.2636288106441498
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "Science & Business Media , 2011.",
+      "importance_rank": 0.24352610111236572
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "beyond\u201d,  Open Systems & Information Dynamics ,  21 , 2014, World Scienti\ufb01c.",
+      "importance_rank": 0.23217737674713135
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 19,
+      "section_title": "forms , 3-28, 2016, Springer.",
+      "importance_rank": 0.22078914940357208
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "section_title": "Physical Review D ,  74 , 8, 2006.",
+      "importance_rank": 0.21762435138225555
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 17,
+      "section_title": "for his comments on a preliminary version of this work.",
+      "importance_rank": 0.2133939564228058
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 16,
+      "section_title": "We now introduce the polymer scale  \u00b5  and re-write the graph points using (76) ",
+      "importance_rank": 0.21098528802394867
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 27,
+      "section_title": "Greg Landrum et al. Rdkit: Open-source cheminformatics, 2006.",
+      "importance_rank": 0.5265284180641174
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 0,
+      "section_title": "1 Department of Computer Science,  5 Chemistry, Stanford University 2 Department",
+      "importance_rank": 0.5186858177185059
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 32,
+      "section_title": "Altogether, we hope our extensive benchmark results on a variety of molecule dat",
+      "importance_rank": 0.507919430732727
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 18,
+      "section_title": "This dataset is relevant to both biomedical and fundamental ML research. On the ",
+      "importance_rank": 0.5064973831176758
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 20,
+      "section_title": "Dataset splitting . We adopt the  scaffold splitting  procedure that splits the ",
+      "importance_rank": 0.4919482469558716
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 2,
+      "section_title": "Thus, there is an urgent need for a comprehensive suite of real-world benchmarks",
+      "importance_rank": 0.46091359853744507
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 14,
+      "section_title": "Dataset splitting . We provide a biological throughput split of the edges into t",
+      "importance_rank": 0.45955321192741394
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 32,
+      "section_title": "The benchmark results for each dataset are provided in Tables 20\u201329. We observe ",
+      "importance_rank": 0.45830827951431274
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 20,
+      "section_title": "The  ogbg-molhiv  and  ogbg-molpcba  datasets are two molecular property predict",
+      "importance_rank": 0.457207590341568
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 30,
+      "section_title": "Zhenqin Wu, Bharath Ramsundar, Evan N Feinberg, Joseph Gomes, Caleb Geniesse, An",
+      "importance_rank": 0.4555014967918396
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 21,
+      "section_title": "Open graph benchmark: datasets for machine learning on graphs. Proceedings of Ne",
+      "importance_rank": 0.41445237398147583
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "section_title": "Network Repository A scienti \ufb01 c network data repository interactive visualizati",
+      "importance_rank": 0.40524470806121826
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 24,
+      "section_title": "networks. Bioinformatics 33, i190 \u2013 i198 . Zitnik, M., Agrawal, M., Leskovec, J.",
+      "importance_rank": 0.4000864326953888
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "section_title": "Table A.4 Datasets commonly used in tasks related to graph.",
+      "importance_rank": 0.398721843957901
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "section_title": "Citation Networks Pubmed ( Yang et al., 2016 ) Cora ( Yang et al., 2016 ) Citese",
+      "importance_rank": 0.39350074529647827
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "section_title": "alcomputing.asu.edu . Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salak",
+      "importance_rank": 0.385830283164978
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 1,
+      "section_title": "thorough analysis of each problem and propose future research directions.",
+      "importance_rank": 0.38046008348464966
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 15,
+      "section_title": "8.1.3. Chemistry and biology",
+      "importance_rank": 0.37200239300727844
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "section_title": "network for goal-directed molecular graph generation. Proceedings of NeurIPS 641",
+      "importance_rank": 0.36831918358802795
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "section_title": "evaluation of the predictive toxicology challenge 2000 \u2013 2001. Bioinformatics 19",
+      "importance_rank": 0.36789965629577637
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "Phys. Review D,  76 , 4, 2007."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "Phys. Review D,  90 , 6, 2014."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 0,
+      "refined_text": "systems have been explored in some papers [9, 10]. However, a key ingredient on "
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "Cambridge University Press , 2010."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "Science & Business Media , 2011."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "beyond\u201d,  Open Systems & Information Dynamics ,  21 , 2014, World Scienti\ufb01c."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 19,
+      "refined_text": "forms , 3-28, 2016, Springer."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 18,
+      "refined_text": "Physical Review D ,  74 , 8, 2006."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 17,
+      "refined_text": "for his comments on a preliminary version of this work."
+    },
+    {
+      "document": "GNN_paper1.pdf",
+      "page_number": 16,
+      "refined_text": "We now introduce the polymer scale  \u00b5  and re-write the graph points using (76) "
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 27,
+      "refined_text": "Greg Landrum et al. Rdkit: Open-source cheminformatics, 2006."
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 0,
+      "refined_text": "1 Department of Computer Science,  5 Chemistry, Stanford University 2 Department"
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 32,
+      "refined_text": "Altogether, we hope our extensive benchmark results on a variety of molecule dat"
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 18,
+      "refined_text": "This dataset is relevant to both biomedical and fundamental ML research. On the "
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 20,
+      "refined_text": "Dataset splitting . We adopt the  scaffold splitting  procedure that splits the "
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 2,
+      "refined_text": "Thus, there is an urgent need for a comprehensive suite of real-world benchmarks"
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 14,
+      "refined_text": "Dataset splitting . We provide a biological throughput split of the edges into t"
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 32,
+      "refined_text": "The benchmark results for each dataset are provided in Tables 20\u201329. We observe "
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 20,
+      "refined_text": "The  ogbg-molhiv  and  ogbg-molpcba  datasets are two molecular property predict"
+    },
+    {
+      "document": "GNN_paper2.pdf",
+      "page_number": 30,
+      "refined_text": "Zhenqin Wu, Bharath Ramsundar, Evan N Feinberg, Joseph Gomes, Caleb Geniesse, An"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 21,
+      "refined_text": "Open graph benchmark: datasets for machine learning on graphs. Proceedings of Ne"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "refined_text": "Network Repository A scienti \ufb01 c network data repository interactive visualizati"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 24,
+      "refined_text": "networks. Bioinformatics 33, i190 \u2013 i198 . Zitnik, M., Agrawal, M., Leskovec, J."
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "refined_text": "Table A.4 Datasets commonly used in tasks related to graph."
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 19,
+      "refined_text": "Citation Networks Pubmed ( Yang et al., 2016 ) Cora ( Yang et al., 2016 ) Citese"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "refined_text": "alcomputing.asu.edu . Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salak"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 1,
+      "refined_text": "thorough analysis of each problem and propose future research directions."
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 15,
+      "refined_text": "8.1.3. Chemistry and biology"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "refined_text": "network for goal-directed molecular graph generation. Proceedings of NeurIPS 641"
+    },
+    {
+      "document": "GNN_paper3.pdf",
+      "page_number": 23,
+      "refined_text": "evaluation of the predictive toxicology challenge 2000 \u2013 2001. Bioinformatics 19"
+    }
+  ]
+}

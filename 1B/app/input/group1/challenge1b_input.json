@@ -1,0 +1,27 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_custom",
+    "test_case_name": "gnn_literature_review",
+    "description": "Literature review on GNN research"
+  },
+  "documents": [
+    {
+      "filename": "GNN_paper1.pdf",
+      "title": "Graph Neural Networks - Paper 1"
+    },
+    {
+      "filename": "GNN_paper2.pdf",
+      "title": "Graph Neural Networks - Paper 2"
+    },
+    {
+      "filename": "GNN_paper3.pdf",
+      "title": "Graph Neural Networks - Paper 3"
+    }
+  ],
+  "persona": {
+    "role": "PhD Researcher in Computational Biology"
+  },
+  "job_to_be_done": {
+    "task": "Prepare a literature review focusing on methodologies, datasets, and benchmarks"
+  }
+}
